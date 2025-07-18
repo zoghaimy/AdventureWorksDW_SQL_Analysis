@@ -8,7 +8,6 @@ The analyses are performed on the `AdventureWorksDW2022` database, a widely used
 
 ## Technologies Used
 * **SQL:** Specifically T-SQL (for SQL Server)
-* **Git & GitHub:** For version control and project hosting
 
 ## Analysis Performed & Skills Demonstrated
 
